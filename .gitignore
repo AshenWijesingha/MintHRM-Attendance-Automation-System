@@ -1,0 +1,11 @@
+# Build output (packages are published as GitHub Release assets, not committed)
+dist/
+*.zip
+*.crx
+*.pem
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
