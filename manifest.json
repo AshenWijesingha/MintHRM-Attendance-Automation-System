@@ -1,8 +1,10 @@
 {
   "manifest_version": 3,
   "name": "MintHRM Attendance Automation System",
+  "short_name": "MintHRM AAS",
   "version": "2.1.0",
-  "description": "MintHRM Attendance Automation System: fill missing In/Out times with your chosen reason and submit every day, page by page, in one click.",
+  "description": "Fill missing MintHRM In/Out times with your chosen reason and submit every day, page by page, in one click.",
+  "homepage_url": "https://github.com/AshenWijesingha/MintHRM-Attendance-Automation-System",
   "permissions": [
     "storage"
   ],
@@ -30,6 +32,5 @@
       ],
       "run_at": "document_idle"
     }
-  ],
-  "short_name": "MintHRM AAS"
+  ]
 }
